@@ -1,0 +1,12 @@
+pyqt6
+pyside6
+pytest
+pyvisa
+niswitch
+sphinx
+pyinstaller
+matplotlib
+numpy
+click
+python-statemachine==2.3.4
+pydot==2.0.0

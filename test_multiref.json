@@ -1,0 +1,34 @@
+{
+    "data_root": "C:\\Users\\lmacosta",
+    "experiment_name": "Experiment",
+    "vgs_address": "None Selected",
+    "vgs_channel": "None Selected",
+    "vds_address": "None Selected",
+    "drain_voltage": 0.0,
+    "start_voltage": 0.0,
+    "end_voltage": 0.0,
+    "voltage_step": 0.0,
+    "drain_current_limit": 0.0,
+    "gate_current_limit": 0.0,
+    "cell_names": [
+        "A-W1",
+        "A2"
+    ],
+    "cell_channel_mapping": {
+        "A-W1": "ch63",
+        "A2": "ch4"
+    },
+    "reference_channel_mapping": {
+        "A-W1": "ch64",
+        "A2": "ch64"
+    },
+    "mux_address": "PXI1Slot2",
+    "mux_topology": "2524/1-Wire Dual 64x1 Mux",
+    "stability_threshold": 0.01,
+    "num_sweeps": 1,
+    "prefix": "",
+    "suffix": "",
+    "sampling_mode": "simple",
+    "reverse": false,
+    "stability_wait_time": 60
+}
